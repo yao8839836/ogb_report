@@ -19,9 +19,9 @@ Running the default code 10 times, here we present our results on the ogbl-colla
 |   Method    | ogbl-collab (Hits@50)      | ogbl-citation2 (MRR)   |
 | ---------- | :-----------:  | :-----------: |
 | PLNLP | 0.7046 ± 0.0040  | -- |
-|  PLNLP + $[X, \tilde{A}X, \tilde{A}^2X]$ | 0.7087 ± 0.0033  | --  |
+|  PLNLP + [$X$, $\tilde{A}X$, $\tilde{A}^2X$] | 0.7087 ± 0.0033  | --  |
 |  MLP | 0.1991 ± 0.0170  | 0.2900 ± 0.0018 |
-|  MLP + $[X, \tilde{A}X, \tilde{A}^2X]$ | 0.2839 ± 0.0127  | 0.3224 ± 0.0017 |
+|  MLP + [$X$, $\tilde{A}X$, $\tilde{A}^2X$] | 0.2839 ± 0.0127  | 0.3224 ± 0.0017 |
 
 ## Training Process for ogbl-collab
 
