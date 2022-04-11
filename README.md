@@ -2,7 +2,7 @@
 The ogbl-collab and ogbl-citation2 are two datasets for link prediction.
 The challenge leaderboard can be checked at: https://ogb.stanford.edu/docs/leader_linkprop/.
 We apply feature propagation to solve this challenge and this repo contains our code submission.
-The techniqual report can be checked at [ogb_report.pdf](https://github.com/yao8839836/ogb_report/blob/main/ogb_report.pdf)
+The technical report can be checked at [ogb_report.pdf](https://github.com/yao8839836/ogb_report/blob/main/ogb_report.pdf)
 
 ## Requirements
   Install base packages:
