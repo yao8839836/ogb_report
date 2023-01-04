@@ -18,7 +18,7 @@ The code is based on [StarGraph repo](https://github.com/hzli-ucas/StarGraph) an
 
 2. Prepare the file storing the subgraphs as follows:  
 
-a. Download the file of anchors using the `download.sh` script, provided by [NodePiece](https://github.com/migalkin/NodePiece/blob/main/ogb/download.sh) 
+&emsp;&emsp; a. Download the file of anchors using the `download.sh` script, provided by [NodePiece](https://github.com/migalkin/NodePiece/blob/main/ogb/download.sh) 
 
 &emsp;&emsp; b. Generate the file of neighbors by running `python create_nborfile.py`
 
