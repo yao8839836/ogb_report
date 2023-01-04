@@ -22,9 +22,11 @@ The code is based on [StarGraph repo](https://github.com/hzli-ucas/StarGraph) an
 
 &emsp;&emsp; b. Generate the file of neighbors by running `python create_nborfile.py`
 
-&emsp;&emsp; c. Unzip dataset/ogbl_wikikg2/mapping/nodeidx2entityid_des.txt.zip
+&emsp;&emsp; c. Unzip dataset/ogbl_wikikg2/mapping/nodeidx2entityid_des.txt.zip in the same folder
 
-&emsp;&emsp; d. Generate the entity text embeddings by running `python sent_emb.py`
+&emsp;&emsp; d. Download [all-mpnet-base-v2 model files](https://huggingface.co/sentence-transformers/all-mpnet-base-v2/tree/main) into ./all-mpnet-base-v2
+
+&emsp;&emsp; e. Generate the entity text embeddings by running `python sent_emb.py`
 
 3. Run the `run_ogb.sh` script to reproduce the results of **StarGraph + TripleRE + Text** reported above
 
