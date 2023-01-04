@@ -31,7 +31,7 @@ The code is based on [StarGraph repo](https://github.com/hzli-ucas/StarGraph) an
 3. Run the `run_ogb.sh` script to reproduce the results of **StarGraph + TripleRE + Text** reported above
 
 ## Citation
-If you find this work useful, please consider citing the paper:
+If you find this work useful, please consider citing the technical report:
 ```
 @article{yao2023ogb,
   title={Technical Report for OGB Link Property Prediction: ogbl-wikikg2},
