@@ -51,7 +51,7 @@ Reference
 
 
 ## Citation
-If you find this work useful, please consider citing the paper:
+If you find this work useful, please consider citing the technical report:
 ```
 @article{yao2022ogb,
   title={Technical Report for OGB Link Property Prediction},
