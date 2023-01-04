@@ -5,7 +5,7 @@ Existing methods for the challenge only use information in the provided KG, but 
 |Method|Test MRR|Validation MRR|#Params|
 |-|-|-|-|
 |**StarGraph + TripleRE + Text **|**0.7305 ± 0.0010**|**0.7442 ± 0.0006**|1,927,395,330|
-|StarGraph + TripleRE|0.6939 ± 0.0011|0.7058 ± 0.0018|86,762,146|
+|StarGraph + TripleRE|0.7201 ± 0.0011|0.7288 ± 0.0008|86,762,146|
 
 
 
