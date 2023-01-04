@@ -49,3 +49,14 @@ Reference
 - https://github.com/zhitao-wang/PLNLP
 - Pairwise Learning for Neural Link Prediction (https://arxiv.org/pdf/2112.02936.pdf)
 
+
+## Citation
+If you find this work useful, please consider citing the paper:
+```
+@article{yao2022ogb,
+  title={Technical Report for OGB Link Property Prediction},
+  author={Yao, Liang and Liu, Qiang and Cai, Hongyun and Ji, Shenggong and He, Feng and Cheng, Xu},
+  year={2022}
+}
+```
+
