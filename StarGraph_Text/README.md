@@ -35,7 +35,7 @@ If you find this work useful, please consider citing the paper:
 ```
 @article{yao2023ogb,
   title={Technical Report for OGB Link Property Prediction: ogbl-wikikg2},
-  author={Yao, Liang and Peng, Jiazhen and Liu, Qiang and Cai, Hongyun and Ji, Shengong and He, Feng and Cheng, Xu},
+  author={Yao, Liang and Peng, Jiazhen and Liu, Qiang and Cai, Hongyun and Ji, Shenggong and He, Feng and Cheng, Xu},
   year={2023}
 }
 ```
