@@ -15,11 +15,16 @@ The code is based on [StarGraph repo](https://github.com/hzli-ucas/StarGraph) an
 
 ## Running
 1. Install the requirements from the `requirements.txt`
-2. Prepare the file storing the subgraphs as follows:  
-&emsp;&emsp; a. Download the file of anchors using the `download.sh` script, provided by [NodePiece](https://github.com/migalkin/NodePiece/blob/main/ogb/download.sh)  
+2. 
+3. Prepare the file storing the subgraphs as follows:  
+&emsp;&emsp; a. Download the file of anchors using the `download.sh` script, provided by [NodePiece](https://github.com/migalkin/NodePiece/blob/main/ogb/download.sh) 
+
 &emsp;&emsp; b. Generate the file of neighbors by running `python create_nborfile.py`
-&emsp;&emsp; d. Unzip dataset/ogbl_wikikg2/mapping/nodeidx2entityid_des.txt.zip
-&emsp;&emsp; c. Generate the entity text embeddings by running `python sent_emb.py`
+
+&emsp;&emsp; c. Unzip dataset/ogbl_wikikg2/mapping/nodeidx2entityid_des.txt.zip
+
+&emsp;&emsp; d. Generate the entity text embeddings by running `python sent_emb.py`
+
 3. Run the `run_ogb.sh` script to reproduce the results of **StarGraph + TripleRE + Text** reported above
 
 ## Citation
